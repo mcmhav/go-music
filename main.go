@@ -43,16 +43,3 @@ func main() {
 	c := New()
 	fmt.Println(c)
 }
-
-//Jeg synes du skal laste ned musikk av disse:
-
-// - David Bowie (en eller annen "best of"-plate)
-// - John Cale (Fragments of a raint season, live)
-// - Beatles ("1", "Sgt. Pepper|s Lonely Hearts Club Band" og "Love")
-// - Thåström (Skebokvarnsv. 209)
-// - The Kooks (cd-er med sangene "Oog la" og "She moves in her own way")
-// - Velvet underground ("The Velvet underground & Nico")
-// - Lou Reed (Transformer)
-// - Cornelis Vreeswijk (Guldkorn från mäster cees memoarer)
-// - Jokke med tourettes/valentinerne ("Billig lykke", "Prisen for popen", "Trygge oslo")
-// - 
